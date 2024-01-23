@@ -39,9 +39,13 @@ ___
 Soft Skills:
 
 ✔️ Inglês avançado.
+
 ✔️ Aplico Clean Architecture no desenvolvimento.
+
 ✔️ Aplico princípios de SOLID durante o desenvolvimento.
+
 ✔️ Aplico da metodologia SCRUM e seus artefatos.
+
 ✔️ Experiência com softwares de trabalho em equipe como Jira Software e Trello.
 ___
 
