@@ -24,11 +24,6 @@ Ferramentas:
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465) ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-Arquitetura de desenvolvimento: 
-
-![](https://lh3.googleusercontent.com/pw/ABLVV86z5B2QpV00tmP-I5P9VCrYFCgyMBHiYN0AtCFqX9bx5OxMSCwjWLv-cMBwQ7q-THMVNqKNS50boYurgaTTiM9u-9PyOHIGSwsGwiSYuJIVDZys4gKRV2LWILs8SuwtN1nyuGIr9c3gl3EdyuSHW2u4VG_CffrPBZ6ioiMWA3EB-eTHLagd8y390zCjZMy4pY6SNN17vtuGiQ12PyJjxLmuMsd4G79Dk8btLyxxisxJZEA7FhqYs37uRgcXZ-9CnsS91jaOompop57C6sLYdBfFhnHdMiZmWU4jQaXSlvRCoBAYMPiZ-fP-zuW3_5DlUnQYUvxrWS8XTYeTmhXAA2eFsWk1WkJKPByS_ZmLHnDqXMDCPOGRu_Q2mKvc3M4QNWjUmIE0MExHEXshsvbxGQAxEsyucpjmCdOa1vTwB7p_j7zpeaoNi3L_gYlNjtn1kBrEV2ewTYBetvzGsraUsbnj7Cn_6ply36FA7_vCdMmj_t9z8EuJrR46IJzaCYvUMix9GDFQ7xpz4MMF3e9-N8hi3F5J6mmnUhe87CuPmLAvRGM05FebRVfUr7ztqLRBVnDpuIXn5K4JaPxtvRr7Nict9RoV5ZHUUAk1XUIwJU1geCwppaVTAiBpRzn-8j9a1lz80P4xUi44BWYemQDpbbE39yEHGX4bT77Tqk5y3zQ8mJOnUsFfT_ELWjUDNI5PllHcNL-Qdah0rMFf_fPcAcWqOGfnA3PvdpcT4oVI_JqJkzmU9GA3N_tU4qEcTUCNM47PC-rFvl0X00NXE5Wlf8EVvat0ZOXoXWaQQ1zsSTMahX8lR9S5hTsu5Fq9nMC_qbIlwFo7fZsF1sk1A3TDb6baZKDJxVwlrEsND2pmuYHWOJKETAxBBSMKjIXYwvRrAn0ZRDHamRslggwHVy89msL0CuXtn63SNvRK2nXp6vPcLB77KYQzTZmTvOYfvVbyoiUHlWzOTw9K=w180-h30-s-no-gm?authuser=0)
-
-
 Outros:
 
 ![](https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/2f7f771079c71b8f4507a8f9fafe7739d210d383d926945fa199e10d8322d75e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
@@ -44,11 +39,9 @@ ___
 Soft Skills:
 
 ✔️ Inglês avançado.
-
+✔️ Aplico Clean Architecture no desenvolvimento.
 ✔️ Aplico princípios de SOLID durante o desenvolvimento.
-
 ✔️ Aplico da metodologia SCRUM e seus artefatos.
-
 ✔️ Experiência com softwares de trabalho em equipe como Jira Software e Trello.
 ___
 
