@@ -2,7 +2,7 @@
 
 - 🙋🏻‍♂️ Nome: Gabriel Adans
 - ⚙️ Engenheiro de Softwares
-- 🎂 Idade: 35 anos
+- 🎂 Idade: 36 anos
 - 🖥️ Dev Front-End
 - 🏢 CEO da PaperStreet Software Company
 - 🌎 Petrolina, PE - Brasil
